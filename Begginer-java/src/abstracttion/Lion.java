@@ -1,4 +1,4 @@
-package com.OOPS;
+package abstracttion;
 
 public class Lion extends Animal implements AllNewAnimals {
 

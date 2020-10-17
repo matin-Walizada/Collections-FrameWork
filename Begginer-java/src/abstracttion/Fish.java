@@ -1,4 +1,4 @@
-package com.OOPS;
+package abstracttion;
 
 public class Fish extends Animal implements AllNewAnimals {
 

@@ -1,4 +1,4 @@
-package com.OOPS;
+package abstracttion;
 
 
 // interface is by default abstract

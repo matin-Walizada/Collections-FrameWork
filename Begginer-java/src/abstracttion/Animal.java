@@ -1,4 +1,4 @@
-package com.OOPS;
+package abstracttion;
 // this is an abstract class 
 public abstract class Animal {
 
